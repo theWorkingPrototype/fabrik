@@ -1,2 +1,4 @@
-fabrik
-Forwards And Backwards Inverse Kinematics simulation for a cloth https://theworkingprototype.github.io/fabrik/
+Forwards And Backwards Inverse Kinematics simulation
+
+Active at
+https://theworkingprototype.github.io/fabrik/
